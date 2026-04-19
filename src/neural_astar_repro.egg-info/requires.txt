@@ -1,0 +1,13 @@
+torch>=2.2.0
+torchvision>=0.17.0
+numpy>=1.22
+segmentation-models-pytorch>=0.3.3
+pqdict>=1.2.0
+tqdm>=4.66
+pillow>=9.0
+
+[dev]
+pytest>=7.0
+
+[viz]
+moviepy>=1.0.3
